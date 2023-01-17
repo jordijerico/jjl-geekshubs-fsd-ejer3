@@ -1,0 +1,33 @@
+.carta{
+    width: 60%;
+    background-color: beige;
+    padding-bottom: 1px;
+    padding-left: 2px;
+
+}
+h1{
+    background-color: rgb(247, 207, 121);
+}
+h2{
+    font-style: italic;
+    color:rgb(62, 109, 197);
+    font-weight: bolder;
+}
+span{
+    font-style: italic;
+    font-size:large;
+    color:rgb(80, 69, 153)
+}
+.normal{
+    font-style: normal;
+    font-size: larger;
+}
+ul{
+list-style: none;    ;
+}
+li{
+    font-size: large;
+}
+p{
+    font-size: larger;
+}
